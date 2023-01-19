@@ -1,0 +1,24 @@
+header{
+    position: absolute;
+width: 240.15px;
+height: 227.87px;
+border-radius: 75%;
+
+background: radial-gradient(75.6% 75.6% at 13.8% 24.4%, #0986FA 36.04%, rgba(9, 77, 250, 0) 100%) 
+
+}
+
+header img{
+    position: absolute;
+width: 192.12px;
+height: 177.72px;
+border-radius: 70%;
+justify-content:space-between;
+
+background: url(mifoto.jpg);
+}
+
+header h1{
+    justify-content: center;
+}
+
