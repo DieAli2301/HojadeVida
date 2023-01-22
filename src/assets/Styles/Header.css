@@ -1,24 +1,52 @@
 header{
-    position: absolute;
-width: 240.15px;
-height: 227.87px;
-border-radius: 75%;
 
-background: radial-gradient(75.6% 75.6% at 13.8% 24.4%, #0986FA 36.04%, rgba(9, 77, 250, 0) 100%) 
+font-size: 3em;
+display: flex;
+
+
+position:relative;
+width: 100%;
+
+
+
+border-bottom: 3px solid #4D9FEA;;
 
 }
+
+
+
+
+
+.info h5{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0%;
+    padding: 5%;
+    color: #23799D;
+}
+
+.info h6{
+    display: flex;
+    justify-content: center;
+    width: 110%;
+    margin: 0%;
+    
+}
+
+.image{
+    background: radial-gradient(75.6% 75.6% at 13.8% 24.4%, #0986FA 36.04%, rgba(9, 77, 250, 0) 100%);
+    border-radius: 5%;
+
+}
+
 
 header img{
-    position: absolute;
 width: 192.12px;
-height: 177.72px;
-border-radius: 70%;
-justify-content:space-between;
-
+height: 180.72px;
+border-radius: 80%;
 background: url(mifoto.jpg);
+
 }
 
-header h1{
-    justify-content: center;
-}
 

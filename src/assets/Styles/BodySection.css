@@ -1,0 +1,21 @@
+.ubication{
+    position: relative;
+    width: 50%;
+    left: 32px;
+    top: 300px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 40px;
+    
+    
+    font-variant: small-caps;
+    color: #525252;
+}
+
+
+.ubication h2{
+    text-align: center;
+    color: #233E9D;
+
+}

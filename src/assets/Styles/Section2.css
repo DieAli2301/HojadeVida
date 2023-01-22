@@ -1,0 +1,37 @@
+.informa  {
+position: relative;
+width: 50%;
+left: 32px;
+top: 50px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-size: 40px;
+
+
+font-variant: small-caps;
+color: #525252;
+
+
+}
+
+.informa h2{
+    text-align: center;
+    color: #233E9D;
+}
+
+.informa l1{
+    display: flex;
+    justify-items: column;
+    
+   
+}
+
+.fotoprograma{
+position: absolute;
+width: 700px;
+height: 366px;
+left: 60%;
+top: 326px;
+}
+
