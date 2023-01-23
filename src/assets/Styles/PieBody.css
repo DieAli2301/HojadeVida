@@ -1,0 +1,87 @@
+.lineafinal{
+position: relative;
+width: 98%;
+height: 0px;
+left: 32px;
+top: 150px;
+bottom: 0px;
+
+border: 2px solid #4D9FEA;
+}
+
+.icon1 img{
+position: relative;
+width: 50.07px;
+height: 50px;
+left: 15%;
+top: 200px;
+}
+
+.icon1 h2{
+position: relative;
+width: 329.48px;
+height: 54px;
+left: 8%;
+top: 200px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+}
+
+
+.icon2 img{
+position: relative;
+width: 50.07px;
+height: 50px;
+left: 48%;
+top: 60px;
+
+}
+
+
+.icon2 h2{
+position: relative;
+width: 329.48px;
+height: 54px;
+left: 41%;
+top: 60px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+}
+
+.icon3 img{
+position: absolute;
+width: 50.07px;
+height: 50px;
+left: 80%;
+top: 277.05%;
+
+
+}
+
+
+.icon3 h2{
+position: relative;
+width: 329.48px;
+height: 54px;
+left: 73%;
+top: 0px;
+
+font-family: 'Montserrat';
+font-style: normal;
+
+font-size: 24px;
+line-height: 24px;
+text-align: center;
+
+}

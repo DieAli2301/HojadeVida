@@ -1,0 +1,97 @@
+.dateacademico h2{
+position: relative;
+display: flex;
+justify-content: center;
+left: 2px;
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-size: 40px;
+font-variant: small-caps;
+color: #233E9D;
+}
+
+.dateacademico{
+position: relative;
+width: 25%;
+left: 2%;
+top: 300px;
+    
+font-family: 'Roboto';
+font-style: normal;
+font-size: 24px;
+font-variant: small-caps;
+color: #525252;
+   
+}
+
+.freetimes h2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    left: 2px;
+    top: 50%;
+    
+    
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 40px;
+    font-variant: small-caps;
+    color: #233E9D;
+
+}
+
+.freetimes{
+    position: relative;
+    width: 446px;
+    height: 20px;
+    left: 39%;
+    top: 130px;
+    
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+    font-variant: small-caps;
+    
+    color: #525252;
+
+
+}
+
+.looking h2{
+position: relative;
+display: flex;
+justify-content: right;
+right: 20%;
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-size: 40px;
+font-variant: small-caps;
+color: #233E9D;
+}
+
+.looking{
+position: relative;
+width: 446px;
+height: 20px;
+left: 72%;
+top: 90px;
+
+    
+    
+font-family: 'Roboto';
+font-style: normal;
+font-size: 24px;
+line-height: 28px;
+font-variant: small-caps;
+    
+color: #525252;
+}

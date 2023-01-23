@@ -14,7 +14,11 @@ function BodySecion() {
          {data.ubicacion.donde[0].calle}
         </div>
 
-        <div>
+        <div className='ILIKE'>
+            <h2>MIS GUSTOS</h2>
+            
+
+            {data.misgustoa.like[0].ami}
             
         </div>
         

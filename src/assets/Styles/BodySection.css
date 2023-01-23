@@ -17,5 +17,41 @@
 .ubication h2{
     text-align: center;
     color: #233E9D;
+    
 
+}
+
+.ILIKE h2{
+position: relative;
+width: 685px;
+height: 39%;
+left: 0%;
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-size: 50px;
+text-align: center;
+font-variant: small-caps;
+
+color: #233E9D;
+}
+
+.ILIKE{
+position: relative;
+width: 685px;
+height: 39%;
+left: 60%;
+top: 15px;
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+
+font-size: 40px;
+text-align: center;
+font-variant: small-caps;
+    color: #525252;
 }
