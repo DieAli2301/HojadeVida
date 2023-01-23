@@ -9,9 +9,9 @@ function App() {
     return ( 
 
        <BrowserRouter>
-       <Route>
+       <Routes>
         <Route path="/HojadeVida/" element={<Home/>}></Route>
-       </Route>
+       </Routes>
        </BrowserRouter>
 
       
