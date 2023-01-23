@@ -59,20 +59,20 @@ background: url(image.png);
 }
 
 .photocss img{
-    position: absolute;
-    width: 69.53px;
-    height: 71px;
-    left: 85%;
-   top: 2210px;
-
+position: relative;
+width: 69.53px;
+height: 71px;
+left:1650px;
+bottom: 200px;   
 }
+
 
 .reafoto h5{
 position: relative;
 width: 433.87px;
 height: 159px;
 left: 38%;
-top: 440px;
+top: 370px;
 
 font-family: 'Roboto';
 font-style: normal;
@@ -102,9 +102,9 @@ color: #233E9D;
 }
 
 .reafoto h2{
-position: absolute;
-right: 47%;
-top: 220%;
+position: relative;
+right: 10px;
+top: 220px;
 
 
 font-family: 'Roboto';
@@ -118,11 +118,12 @@ color: #233E9D;
 
 
 .photocss h2{
-    position: relative;
+ position: relative;
 width: 428.82px;
 height: 133px;
 left: 76%;
-top: 100%;
+bottom: 150px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -139,9 +140,11 @@ color: #233E9D;
     
 position: relative;
 width: 432.9px;
-height: 159px;
+height: 15px;
 left: 75%;
-top: 60px;
+bottom: 100px;
+
+
 
 font-family: 'Roboto';
 font-style: normal;
