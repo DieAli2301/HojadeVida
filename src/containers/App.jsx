@@ -1,5 +1,6 @@
+import { BrowserRouter,Routes,Route } from "react-router-dom";
 import Home from "../pages/Home";
-import Section2 from "../components/atoms/Section2";
+
 
 function App() {
 
@@ -7,12 +8,13 @@ function App() {
 
     return ( 
 
-        <>
+       <BrowserRouter>
+       <Route>
+        <Route path="/HojadeVida/" element={<Home/>}></Route>
+       </Route>
+       </BrowserRouter>
 
-        <Home/>
-        
-
-        </>
+      
         
      );
 }
